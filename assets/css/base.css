@@ -89,8 +89,3 @@ h1 {
     background: transparent
 }
 
-/* Handle */
-::-webkit-scrollbar-thumb {
-    background:  rgb(185, 185, 185);
-    border-radius: 5px;
-}
